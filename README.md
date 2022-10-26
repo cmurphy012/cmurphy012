@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Colm Murphy 👋
+
+I am a graduate electronic and computer engineer out of University College Dublin.
 
 <!--
 **cmurphy012/cmurphy012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
